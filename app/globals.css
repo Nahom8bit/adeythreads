@@ -6,16 +6,6 @@
   :root {
     --font-inter: 'Inter', sans-serif;
     --font-playfair: 'Playfair Display', serif;
-    
-    /* Adey Threads Color Palette */
-    --color-primary: #8B4513;
-    --color-secondary: #D2691E;
-    --color-accent: #F4A460;
-    --color-dark: #1a1a1a;
-    --color-light: #f8f8f8;
-    --color-gold: #DAA520;
-    --color-cream: #F5F5DC;
-    --color-earth: #8B7355;
   }
 
   body {
